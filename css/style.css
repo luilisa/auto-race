@@ -1,0 +1,23 @@
+form.form-example {
+    display: table;
+    margin: 0 auto;
+    width:250px;
+}
+
+label, input {
+    display: table-cell;
+    margin-bottom: 10px;
+    text-align: center;
+    color:indigo;
+}
+
+
+h1 {
+    text-align: center;
+    color:indigo;
+    font-size:30px;
+}
+
+body {
+    background-image: url('torrkl.jpg');
+}
